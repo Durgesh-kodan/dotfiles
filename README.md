@@ -10,6 +10,8 @@ neofetch
 cava
 nvim
 rofi
+dunst
+oh-my-zsh
 ```
 
 More configurations will be added 
