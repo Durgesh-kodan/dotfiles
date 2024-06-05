@@ -1,0 +1,1 @@
+cat ~/programs/python/pydexcom/BG.txt
